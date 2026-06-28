@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "MacroFit",
-    "slug": "MacroFit",
+    "slug": "microfit",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -39,6 +39,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "1fad7869-0032-4dc5-b6af-c8117ee81756"
+      }
+    },
+    "owner": "ayush08"
   }
 }
