@@ -1,4 +1,4 @@
-# 🍽️ Calorie Tracker App
+# 🍽️ MacroFit - Calorie tracker App
 
 A modern **React Native** calorie tracking application built with **Expo** that helps users monitor their daily nutrition. Users can easily add meals, track calories and macronutrients, view meal history, and maintain healthy eating habits through a clean and intuitive interface.
 
